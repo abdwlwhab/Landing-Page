@@ -116,4 +116,34 @@ a {
     font-weight: bold;
     min-width: 650px;
     text-align: end;
+    padding: 50px;
+}
+.last{
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    max-width: 700px;
+    color: #eee;
+}
+
+.button{
+    padding: 7px;
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 100px;
+    text-align: center;
+}
+
+.contaner{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    color: #eee;
+    background-color: #1f2937;
+    text-align: center;
 }
